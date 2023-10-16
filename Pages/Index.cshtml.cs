@@ -14,7 +14,7 @@ namespace Bud_George_Lab1.Pages
 
         public void OnGet()
         {
-
+            ViewData["Title"] = "test2"; 
         }
     }
 }
